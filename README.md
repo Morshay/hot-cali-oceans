@@ -1,4 +1,4 @@
-# hot-oceans-in-your-area
+# hot-cali-oceans
 
 **ML Regression** project as part of a data science course under Naya College.
 
