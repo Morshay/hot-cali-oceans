@@ -1,6 +1,6 @@
 # hot-cali-oceans
 
-**ML Regression** project as part of a data science course under Naya College.
+**ML Regression project**, part of a data science course under Naya College.
 
 The topic at hand is *oceanography*, and specifically predicting *ocean temperature* from measurement data taken at several points and depths in the **pacific ocean near California**.
 
